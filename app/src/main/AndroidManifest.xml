@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.anveshwelcome.wow">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hi"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+
+        android:theme="@style/AppTheme">
+        <activity android:name=".firstscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".Ancient" />
+        <activity android:name=".Modern" />
+        <activity android:name=".giza" />
+        <activity android:name=".hanging" />
+        <activity android:name=".zeus" />
+        <activity android:name=".artemis" />
+        <activity android:name=".mausoleum" />
+        <activity android:name=".rhodes" />
+        <activity android:name=".lighthouse" />
+        <activity android:name=".chichenitza" />
+        <activity android:name=".christred" />
+        <activity android:name=".colosseum" />
+        <activity android:name=".greatwall" />
+        <activity android:name=".machu" />
+        <activity android:name=".petra" />
+        <activity android:name=".tajmahal" />
+        <activity android:name=".MainActivity"></activity>
+    </application>
+
+</manifest>

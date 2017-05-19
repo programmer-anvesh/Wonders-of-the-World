@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anveshwelcome.wow.Ancient"
+    android:background="#FFFFFF">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="false">
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TableRow>
+        <Space
+            android:layout_height="10dp"/>
+    </TableRow>
+  <TableRow>
+      <Button
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+          android:layout_weight="1"
+          android:textColorHighlight="#000000"
+        android:minHeight="60dp"
+          android:textAllCaps="false"
+          android:gravity="center_vertical"
+                    android:paddingLeft="4dp"
+                  android:text="1.The Great Pyramid at Giza, Egypt"
+          android:id="@+id/giza"
+          android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18dp"
+
+          android:background="#165035" />
+  </TableRow>
+    <TableRow>
+        <Space
+            android:minHeight="10dp" />
+    </TableRow>
+<TableRow>
+    <Button
+        android:layout_width="match_parent"
+        android:textAllCaps="false"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:text="2.The Hanging Gardens of Babylon"
+        android:id="@+id/hanging"
+        android:gravity="center_vertical"
+        android:paddingLeft="4dp"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:minHeight="60dp"
+        android:background="#165035" /></TableRow>
+
+    <TableRow>
+        <Space
+            android:layout_height="10dp"/>
+    </TableRow>
+<TableRow
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"><Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:minHeight="60dp"
+    android:gravity="center_vertical"
+    android:paddingLeft="4dp"
+        android:text="3.The Statue of Zeus at Olympia, Greece"
+        android:id="@+id/zeus"
+
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+    android:textAllCaps="false"
+        android:textSize="18dp"
+    android:background="#165035" /></TableRow>
+
+    <TableRow>
+        <Space
+            android:layout_height="10dp"/>
+    </TableRow>
+
+<TableRow><Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="4.The Temple of Artemis at Ephesus"
+        android:id="@+id/artemis"
+
+    android:gravity="center_vertical"
+    android:paddingLeft="4dp"
+    android:textAllCaps="false"
+    android:layout_weight="1"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18dp"
+    android:minHeight="60dp"
+    android:background="#165035" />
+
+</TableRow>
+<TableRow>
+<Space
+    android:layout_height="10dp"/>
+</TableRow>
+
+<TableRow><Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="5.The Mausoleum at Halicarnassus"
+        android:id="@+id/mausoleum"
+    android:gravity="center_vertical"
+    android:paddingLeft="4dp"
+    android:textAllCaps="false"
+    android:layout_weight="1"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18dp"
+    android:minHeight="60dp"
+    android:background="#165035" /></TableRow>
+
+<TableRow>
+<Space
+    android:layout_height="10dp"/>
+</TableRow>
+<TableRow><Button
+    android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="6.The Colossus of Rhodes"
+        android:id="@+id/rhodes"
+    android:gravity="center_vertical"
+    android:paddingLeft="4dp"
+    android:layout_weight="1"
+        android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18dp"
+    android:minHeight="60dp"
+    android:background="#165035" /></TableRow>
+
+<TableRow>
+<Space
+    android:layout_height="10dp"/>
+</TableRow>
+<TableRow><Button
+    android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="7.The Lighthouse at Alexandria, Egypt"
+        android:id="@+id/lighthouse"
+    android:layout_weight="1"
+    android:gravity="center_vertical"
+    android:paddingLeft="4dp"
+                android:textColor="#FFFFFF"
+        android:textStyle="bold"
+        android:textSize="18dp"
+    android:minHeight="60dp"
+    android:background="#165035"
+     />
+</TableRow>
+</TableLayout>
+</ScrollView>
+
+
+</RelativeLayout>

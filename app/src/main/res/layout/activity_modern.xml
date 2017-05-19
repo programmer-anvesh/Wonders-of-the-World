@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anveshwelcome.wow.Ancient"
+    android:background="#FFFFFF">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TableRow>
+                <Space
+                    android:layout_height="10dp"/>
+            </TableRow>
+            <TableRow>
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:minHeight="60dp"
+                    android:text="1.Taj Mahal: Agra, India"
+                    android:id="@+id/tajmahal"
+                    android:textAllCaps="false"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="4dp"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold"
+                    android:textSize="18dp"
+
+                    android:background="#004e5d" />
+            </TableRow>
+            <TableRow>
+                <Space
+                    android:minHeight="10dp" />
+            </TableRow>
+            <TableRow>
+                <Button
+                    android:layout_width="match_parent"
+
+                    android:layout_weight="1"
+                    android:layout_height="match_parent"
+                    android:text="2.Pyramid at Chichén Itzá: Yucatan Peninsula, Mexico"
+                    android:id="@+id/chichenitza"
+
+                    android:textAllCaps="false"
+                    android:gravity="center_vertical"
+                    android:paddingLeft="4dp"
+                    android:textColor="#FFFFFF"
+                    android:textStyle="bold"
+                    android:textSize="18dp"
+                    android:minHeight="60dp"
+                    android:background="#004e5d" /></TableRow>
+
+            <TableRow>
+                <Space
+                    android:layout_height="10dp"/>
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"><Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:minHeight="60dp"
+                android:textAllCaps="false"
+                android:gravity="center_vertical"
+                android:paddingLeft="4dp"
+                android:text="3.Roman Colosseum: Rome, Italy"
+                android:id="@+id/colosseum"
+
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:background="#004e5d" /></TableRow>
+
+            <TableRow>
+                <Space
+                    android:layout_height="10dp"/>
+            </TableRow>
+
+            <TableRow><Button
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="4.Petra: Jordan"
+                android:id="@+id/petra"
+                android:textAllCaps="false"
+                android:gravity="center_vertical"
+                android:paddingLeft="4dp"
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:minHeight="60dp"
+                android:background="#004e5d" />
+
+            </TableRow>
+            <TableRow>
+                <Space
+                    android:layout_height="10dp"/>
+            </TableRow>
+
+            <TableRow><Button
+                android:paddingLeft="4dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="5.Machu Picchu: Peru"
+                android:id="@+id/machu"
+                android:textAllCaps="false"
+                android:gravity="center_vertical"
+
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:minHeight="60dp"
+                android:background="#004e5d" /></TableRow>
+
+            <TableRow>
+                <Space
+                    android:layout_height="10dp"
+                    android:background="#06b49d" />
+            </TableRow>
+            <TableRow><Button
+                android:paddingLeft="4dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="6.Great Wall of China: China"
+                android:id="@+id/greatwall"
+                android:textAllCaps="false"
+                android:gravity="center_vertical"
+
+                android:layout_weight="1"
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:minHeight="60dp"
+                android:background="#004e5d" /></TableRow>
+
+            <TableRow>
+                <Space
+                    android:layout_height="10dp"/>
+            </TableRow>
+            <TableRow><Button
+                android:paddingLeft="4dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="7.Christ Redeemer: Rio de Janeiro, Brazil"
+                android:id="@+id/christred"
+                android:layout_weight="1"
+                android:textAllCaps="false"
+                android:gravity="center_vertical"
+
+                android:textColor="#FFFFFF"
+                android:textStyle="bold"
+                android:textSize="18dp"
+                android:minHeight="60dp"
+                android:background="#004e5d"
+                />
+            </TableRow>
+        </TableLayout>
+    </ScrollView>
+</RelativeLayout>

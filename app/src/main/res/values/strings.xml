@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Wonders of the World</string>
+
+    <string name="giza">The Great Pyramid at Giza was constructed between
+        2584 and 2561 BCE for the Egyptian Pharaoh Khufu (known in Greek as \'Cheops\')
+        and was the tallest man-made structure in the world for almost 4,000 years.
+        Excavations of the interior of the pyramid were only initiated in earnest in the late 18th and early 19th centuries CE and so the intricacies of the interior which so intrigue modern people were unknown to the ancient writers. It was the structure itself with its perfect
+        symmetry and imposing height which impressed ancient visitors.</string>
+    <string name="hanging">
+        The Hanging Gardens of Babylon, if they existed as described, were built by Nebuchadnezzar II between 605-562 BCE as a gift to his wife. They are described by the ancient writer Diodorus Siculus as being self-watering planes of exotic flora and fauna reaching a height of over 75 feet (23 metres) through a series of climbing terraces. Diodorus wrote that Nebuchadnezzar\'s wife, Amtis of Media, missed the mountains and flowers of her homeland and so the king commanded that a mountain be created for her in Babylon. The contoversy over whether the gardens existed comes from the fact that they are nowhere mentioned in Babylonian history and that Herodotus, \'the Father of History\', makes no mention of them in his descriptions of Babylon. There are many other ancient facts, figures, and places Herodotus fails to mention, however, or has been shown to be wrong about. Diodorus, Philo, and the historian Strabo all claim the gardens existed. They were destroyed by an earthquake sometime after the 1st century CE.
+    </string>
+    <string name="zeus">
+The Statue of Zeus at Olympia was created by the great Greek sculptor Phidias (known as the finest sculptor of the ancient world in the 5th century BCE, he also worked on the Parthenon and the statue of Athena there in Athens). The statue depicted the god Zeus seated on his throne, his skin of ivory and robes of hammered gold, and was 40 feet (12 m)  tall, designed to inspire awe in the worshippers who came to the Temple of Zeus at Olympia.  Not everyone was awestruck by the statue, however. Strabo reports, \“Although the temple itself is very large, the sculptor is criticized for not having appreciated the correct proportions. He has shown Zeus seated, but with the head almost touching the ceiling, so that we have the impression that if Zeus moved to stand up he would unroof the temple\” (Seven Wonders). The Temple at Olympia fell into ruin after the rise of Christianity and the ban on the Olympic Games as \'pagan rites\'. The statue was carried off to Constantinople where it was later destroyed, sometime in either the 5th or 6th centuries CE, by an earthquake.
+    </string>
+    <string name="mausoleum">
+        The Mausoleum of Halicarnassus was the tomb of the Persian Satrap Mauslos, built in 351 BCE. Mauslos chose Halicarnassus as his capital city, and he and his beloved wife Artemisia went to great lengths to create a city whose beauty would be unmatched in the world. Mauslos died in 353 BCE and Artemisia wished to create a final resting place worthy of such a great king. Artemisia died two years after Mauslos and her ashes were entombed with his in the mausoleum (Pliny the Elder records that the craftsmen continued work on the structure after her death, both as a tribute to their patroness and knowing the work would bring them lasting fame).  The tomb was 135 feet (41 m) tall and ornately decorated with fine sculpture. It was destroyed by a series of earthquakes and lay in ruin for hundreds of years until, in 1494 CE, it was completely dismantled and used by the Knights of St. John of Malta in the building of their castle at Bodrum (where the ancient stones can still be seen today).  It is from the tomb of Mauslos that the English word \'mausoleum\' is derived.
+    </string>
+    <string name="rhodes">
+        The Colossus of Rhodes was a statue of the god Helios (the patron god of the island of Rhodes) constructed between 292 and 280 BCE. It stood over 110 feet (just over 33 m) high overlooking the harbor of Rhodes and, despite fanciful depictions to the contrary, stood with its legs together on a base (much like the Statue of Liberty in the harbor off New York City in the United States of America, which is modeled on the Colossus) and did not straddle the harbour. The statue was commissioned after the defeat of the invading army of Demetrius in 304 BCE. Demetrius left behind much of his siege equipment and weaponry and this was sold by the Rhodians for 300 talents (approximately 360 million U.S. dollars) which money they used to build the Colossus. The statue stood for only 56 years before it was destroyed by an earthquake in 226 BCE. It lay in impressive ruin for over 800 years, according to Strabo, and was still a tourist attraction. Pliny the Elder claims that the fingers of the Colossus were larger than most statues of his day. According to the historian Theophanes the bronze ruins were eventually sold to \“a Jewish merchant of Edessa\” around 654 CE who carried them away on 900 camels to be melted down.
+    </string>
+    <string name="lighthouse">
+        The Lighthouse at Alexandria, built on the island of Pharos, stood close to 440 feet (134 m) in height and was commissioned by Ptolemy I Soter. Construction was completed sometime around 280 BCE. The lighthouse was the third tallest human-made structure in the world (after the pyramids) and its light (a mirror which reflected the sun’s rays by day and a fire by night) could be seen as far as 35 miles out to sea. The structure rose from a square base to a middle octagonal section up to a circular top and those who saw it in its glory reported that words were inadequate to describe its beauty. The lighthouse was badly damaged in an earthquake in 956 CE, again in 1303 CE and 1323 CE and, by the year 1480 CE, it was gone. The Egyptian fort Quaitbey now stands on the site of the Pharos, built with some of the stones from the ruins of the lighthouse.
+    </string>
+    <string name="artemis">
+        The Temple of Artemis at Ephesus, a Greek colony in Asia Minor, took over 120 years to build and only one night to destroy. Completed in 550 BCE, the temple was 425 feet (about 129 m) high, 225 feet (almost 69 m) wide, supported by 127 60 foot (about 18 m) high columns. Sponsored by the wealthy King Croesus of Lydia, who spared no expense in anything he did (according to Herodotus, among others) the temple was so magnificent that every account of it is written with the same tone of awe and each agrees with the other that this was among the most amazing structures ever raised by humans. On July 21, 356 BCE a man named Herostratus set fire to the temple in order, as he said, to achieve lasting fame by forever being associated with the destruction of something so beautiful. The Ephesians decreed that his name should never be recorded nor remembered but Strabo set it down as a point of interest in the history of the temple. On the same night the temple burned, Alexander the Great was born and, later, offered to rebuild the ruined temple but the Ephesians refused his generosity. It was rebuilt on a less grand scale after Alexander\’s death but was destroyed by the invasion of the Goths. Rebuilt again, it was finally destroyed utterly by a Christian mob lead by Saint John Chrysostom in 401 CE.
+    </string>
+    <string name="tajmahal">
+        This immense mausoleum was built on the orders of Shah Jahan, the fifth Muslim Mogul emperor, to honor the memory of his beloved late wife. Built out of white marble and standing in formally laid-out walled gardens, the Taj Mahal is regarded as the most perfect jewel of Muslim art in India. The emperor was consequently jailed and, it is said, could then only see the Taj Mahal out of his small cell window.
+        The Taj Mahal was designated as a UNESCO World Heritage Site in 1983 for being \"the jewel of Muslim art in India and one of the universally admired masterpieces of the world\'s heritage\". Described by Nobel laureate Rabindranath Tagore as \"the tear-drop on the cheek of time\", it is regarded by many as the best example of Mughal architecture and a symbol of India\'s rich history. The Taj Mahal attracts 7–8 million visitors a year. In 2007, it was declared a winner of the New7Wonders of the World (2000–2007) initiative.
+    </string>
+    <string name="petra">
+        On the edge of the Arabian Desert, Petra was the glittering capital of the Nabataean empire of King Aretas IV (9 B.C. to 40 A.D.). Masters of water technology, the Nabataeans provided their city with great tunnel constructions and water chambers. A theater, modelled on Greek-Roman prototypes, had space for an audience of 4,000. Today, the Palace Tombs of Petra, with the 42-meter-high Hellenistic temple facade on the El-Deir Monastery, are impressive examples of Middle Eastern culture.
+        The site remained unknown to the western world until 1812, when it was introduced by Swiss explorer Johann Ludwig Burckhardt. It was described as \"a rose-red city half as old as time" in a Newdigate Prize-winning poem by John William Burgon. UNESCO has described it as \"one of the most precious cultural properties of man\'s cultural heritage.\"
+        </string>
+    <string name="machu">
+        In the 15th century, the Incan Emperor Pachacútec built a city in the clouds on the mountain known as Machu Picchu (\“old mountain\”). This extraordinary settlement lies halfway up the Andes Plateau, deep in the Amazon jungle and above the Urubamba River. It was probably abandoned by the Incas because of a smallpox outbreak and, after the Spanish defeated the Incan Empire, the city remained \‘lost\’ for over three centuries. It was rediscovered by Hiram Bingham in 1911.
+        Machu Picchu was built in the classical Inca style, with polished dry-stone walls. Its three primary structures are the Inti Watana, the Temple of the Sun, and the Room of the Three Windows. Most of the outlying buildings have been reconstructed in order to give tourists a better idea of how they originally appeared. By 1976, thirty percent of Machu Picchu had been restored and restoration continues.
+    </string>
+    <string name="greatwall">
+        The Great Wall of China was built to link existing fortifications into a united defense system and better keep invading Mongol tribes out of China. It is the largest man-made monument ever to have been built and it is disputed that it is the only one visible from space. Many thousands of people must have given their lives to build this colossal construction.
+        The Great Wall stretches from Dandong in the east, to Lop Lake in the west, along an arc that roughly delineates the southern edge of Inner Mongolia. A comprehensive archaeological survey, using advanced technologies, has concluded that the Ming walls measure 8,850 km (5,500 mi).[4] This is made up of 6,259 km (3,889 mi) sections of actual wall, 359 km (223 mi) of trenches and 2,232 km (1,387 mi) of natural defensive barriers such as hills and rivers.[4] Another archaeological survey found that the entire wall with all of its branches measure out to be 21,196 km (13,171 mi).
+    </string>
+    <string name="christred">
+        This statue of Jesus stands some 38 meters tall, atop the Corcovado mountain overlooking Rio de Janeiro. Designed by Brazilian Heitor da Silva Costa and created by French sculptor Paul Landowski, it is one of the world\’s best-known monuments. The statue took five years to construct and was inaugurated on October 12, 1931. It has become a symbol of the city and of the warmth of the Brazilian people, who receive visitors with open arms.
+        The statue weighs 635 metric tons (625 long, 700 short tons), and is located at the peak of the 700-metre (2,300 ft) Corcovado mountain in the Tijuca Forest National Park overlooking the city of Rio. A symbol of Christianity across the world, the statue has also become a cultural icon of both Rio de Janeiro and Brazil, and is listed as one of the New Seven Wonders of the World. It is made of reinforced concrete and soapstone, and was constructed between 1922 and 1931.
+    </string>
+    <string name="colosseum">
+        This great amphitheater in the centre of Rome was built to give favors to successful legionnaires and to celebrate the glory of the Roman Empire. Its design concept still stands to this very day, and virtually every modern sports stadium some 2,000 years later still bears the irresistible imprint of the Colosseum\’s original design. Today, through films and history books, we are even more aware of the cruel fights and games that took place in this arena, all for the joy of the spectators.
+        The Colossus did eventually fall, possibly being pulled down to reuse its bronze. By the year 1000 the name \"Colosseum\" had been coined to refer to the amphitheatre. The statue itself was largely forgotten and only its base survives, situated between the Colosseum and the nearby Temple of Venus and Roma.
+    </string>
+    <string name="chichenitza">
+        Chichén Itzá, the most famous Mayan temple city, served as the political and economic center of the Mayan civilization. Its various structures – the pyramid of Kukulkan, the Temple of Chac Mool, the Hall of the Thousand Pillars, and the Playing Field of the Prisoners – can still be seen today and are demonstrative of an extraordinary commitment to architectural space and composition. The pyramid itself was the last, and arguably the greatest, of all Mayan temples.
+        Chichen Itza was one of the largest Maya cities and it was likely to have been one of the mythical great cities, or Tollans, referred to in later Mesoamerican literature. The city may have had the most diverse population in the Maya world, a factor that could have contributed to the variety of architectural styles at the site.
+    </string>
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
